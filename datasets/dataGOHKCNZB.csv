@@ -1,0 +1,599 @@
+english,language,handshape,twohands,handpart,mmvrepeated,dmvhandshape,dmvorientation,compound,domhand,twohandsC,mmvcrepeated,dmvchandshape,dmvcorientation,TwoH,PoA,PoA2,Mov,Mov2,Mov3,Mov4,Compounds,hist,geo,SL
+all,English,5,true,palm,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+animal,English,5,true,palm,true,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,BSL,WestEuro,BSL
+bad,English,I,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+because,English,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,Torso_top,torso,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+bird,English,L,false,heel,true,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+black,English,S_b,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+blood,English,1,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,1,BSL,WestEuro,BSL
+boring,English,E,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,BSL,WestEuro,BSL
+brother,English,S_b,true,heel,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+bug,English,5_nb,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,BSL,WestEuro,BSL
+cat,English,5,true,tip,false,false,false,false,right,false,false,false,false,1,mouth,head,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+child,English,E,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+correct,English,A,false,heel,true,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+count,English,5,true,tip,true,true,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_up,Y_up,Y_up true false,Y_up_Hs,0,BSL,WestEuro,BSL
+dance,English,V,true,ulnar_side,true,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false true,X_left_Or,0,BSL,WestEuro,BSL
+day,English,E,true,tip,false,false,false,false,right,false,false,false,false,1,Torso_mid,torso,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+die,English,H,true,finger_fronts,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+dirty,English,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+dog,English,H,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+dry,English,U_b,true,tip,false,true,false,false,right,false,false,false,false,1,cheek,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+dust,English,5_b,true,tip,false,true,false,true,right,false,false,true,false,1,Lateral,Lateral,true false,Hs_Change,true false,Hs,1,BSL,WestEuro,BSL
+earth,English,B,true,radial_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+egg,English,1_nb,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+father,English,H,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+feather,English,U_b,true,tip,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+fire,English,S_b,true,finger_fronts,false,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up true false,Y_up_Hs,0,BSL,WestEuro,BSL
+fish,English,B_b,false,radial_side,true,true,false,false,right,false,false,false,false,0,chin,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+flower,English,L_enb,false,tip,false,false,false,false,right,false,false,false,false,0,lip,head,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+full,English,B,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+good,English,A,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+grass,English,5,false,back_of_palm,false,true,false,false,right,false,false,false,false,0,forearm_front,arm,X_right,X_right,X_right true false,X_right_Hs,0,BSL,WestEuro,BSL
+grease,English,5_b,true,tip,true,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+green,English,S,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+heavy,English,5,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+how,English,5,true,back_of_fingers,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+husband,English,L_eb,false,tip,false,false,false,true,right,false,false,false,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,1,BSL,WestEuro,BSL
+ice,English,5,true,tip,false,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+if,English,1,false,tip,false,false,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,1,BSL,WestEuro,BSL
+kill,English,1,false,tip,false,false,true,false,right,false,false,false,false,0,neck,torso,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+laugh,English,L_nb,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+leaf,English,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,BSL,WestEuro,BSL
+lie,English,1,false,radial_side,false,false,false,false,right,false,false,false,false,0,chin,head,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+live,English,M_enb,false,tip,true,false,false,false,right,false,false,false,false,0,Torso_top,torso,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+long,English,E,true,tip,false,true,false,false,right,false,false,false,false,1,top,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+look_for,English,V,true,ulnar_side,false,false,true,false,right,false,false,false,false,1,Vertical,Vertical,Z_front,Z_front,Z_front false true,Z_front_Or,0,BSL,WestEuro,BSL
+man,English,5_b,false,radial_side,false,true,false,false,right,false,false,false,false,0,chin,head,Y_up,Y_up,Y_up true false,Y_up_Hs,0,BSL,WestEuro,BSL
+meat,English,S_b,false,heel,false,false,false,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+moon,English,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+mother,English,6,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,palm,hand,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+mountain,English,B_b,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_up,Y_up,Y_up true false,Y_up_Hs,0,BSL,WestEuro,BSL
+name,English,H,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,forehead,head,Z_front,Z_front,Z_front false true,Z_front_Or,0,BSL,WestEuro,BSL
+narrow,English,H,true,finger_fronts,false,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false true,Z_front_Or,0,BSL,WestEuro,BSL
+new,English,E,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+night,English,E,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+not,English,E,true,palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+old,English,V_nb,false,tip,false,false,false,false,right,false,false,false,false,0,eye,head,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+other,English,1,false,tip,true,false,true,false,right,false,false,false,false,0,finger_fronts,hand,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+person,English,L_nb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+pig,English,S,false,radial_side,false,false,false,false,right,false,false,false,false,0,nose,head,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+play,English,E,true,palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+rain,English,5,true,back_of_palm,false,true,false,false,right,false,false,false,false,1,eye,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+red,English,1_nb,false,back_of_fingers,false,false,true,false,right,false,false,false,false,0,chin,head,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+river,English,H,true,finger_fronts,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+salt,English,I,false,finger_fronts,false,false,false,true,right,false,true,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,1,BSL,WestEuro,BSL
+sea,English,E,true,palm,false,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,X_right,X_right,X_right false true,X_right_Or,0,BSL,WestEuro,BSL
+sharp,English,M_eb,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,BSL,WestEuro,BSL
+short,English,A,true,heel,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+singing,English,K,true,finger_fronts,false,false,false,false,right,false,false,false,false,1,mouth,head,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+sister,English,1_nb,false,radial_side,true,false,false,false,right,false,false,false,false,0,nose,head,Z_back,Z_back,Z_back false false,Z_back,0,BSL,WestEuro,BSL
+sit,English,E,true,palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+smooth,English,E,false,palm,false,false,false,false,right,false,false,false,false,0,palm,hand,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+snake,English,U_nb,false,back_of_palm,false,true,false,false,right,false,false,false,false,0,mouth,head,Z_front,Z_front,Z_front true false,Z_front_Hs,0,BSL,WestEuro,BSL
+snow,English,5,true,finger_fronts,true,true,false,false,right,false,false,false,false,1,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+stand,English,V,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+star,English,M_eb,false,tip,false,true,false,false,right,false,false,false,false,0,cheek,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+stone,English,E_nb,false,palm,false,false,true,false,right,false,false,false,false,0,tip,hand,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+string,English,L_enb,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,BSL,WestEuro,BSL
+sun,English,5_b,false,tip,false,true,false,false,right,false,false,false,false,0,top,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+tail,English,L_b,false,tip,false,false,false,false,right,false,false,false,false,0,waist,torso,Y_up,Y_up,Y_up false false,Y_up,0,BSL,WestEuro,BSL
+thin,English,I,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+tree,English,5,false,palm,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,BSL,WestEuro,BSL
+vomit,English,4,true,radial_side,false,false,true,false,right,false,true,false,false,1,below_chin,head,Y_down,Y_down,Y_down false true,Y_down_Or,1,BSL,WestEuro,BSL
+warm,English,E,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,mouth,head,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+water,English,1,false,tip,true,true,false,false,right,false,false,false,false,0,cheek,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+wet,English,5_b,true,back_of_palm,true,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down true false,Y_down_Hs,0,BSL,WestEuro,BSL
+what,English,1,false,finger_fronts,true,false,false,false,left,false,false,false,false,0,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+when,English,5,false,finger_fronts,true,true,false,false,left,false,false,false,false,0,cheek,head,true false,Hs_Change,true false,Hs,0,BSL,WestEuro,BSL
+where,English,5,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+white,English,L_eb,false,tip,false,false,true,false,right,false,false,false,false,0,Torso_top,torso,Y_down,Y_down,Y_down false true,Y_down_Or,0,BSL,WestEuro,BSL
+who,English,1,false,tip,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+wide,English,E,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,BSL,WestEuro,BSL
+wife,English,L_eb,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,radial_side,hand,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+wind,English,E,true,palm,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false true,X_right_Or,0,BSL,WestEuro,BSL
+with,English,E,true,palm,false,true,true,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left true true,X_left_Hs_Or,0,BSL,WestEuro,BSL
+woman,English,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,cheek,head,X_left,X_left,X_left false false,X_left,0,BSL,WestEuro,BSL
+wood,English,A,false,tip,true,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+work,English,B,false,ulnar_side,true,false,false,false,left,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+worm,English,1,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left true false,X_left_Hs,0,BSL,WestEuro,BSL
+year,English,1,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,BSL,WestEuro,BSL
+yellow,English,1,false,tip,false,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,BSL,WestEuro,BSL
+all,German,5,true,radial_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+animal,German,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+bad,German,E,false,palm,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+because,German,1,false,tip,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false true,Y_down_Or,0,DGS,WestEuro,DGS
+bird,German,E,true,palm,true,false,true,false,right,false,false,false,false,1,Vertical,Vertical,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+black,German,5_b,false,radial_side,false,true,false,false,right,false,false,false,false,0,forehead,head,X_left,X_left,X_left true false,X_left_Hs,0,DGS,WestEuro,DGS
+blood,German,E,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+boring,German,A,false,tip,true,false,false,false,right,false,false,false,false,0,chin,head,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+brother,German,1,true,radial_side,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+bug,German,5_nb,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,DGS,WestEuro,DGS
+cat,German,L_eb,false,tip,true,false,false,false,right,false,false,false,false,0,cheek,head,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+child,German,E,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+correct,German,V,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+count,German,1,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Z_back,Z_back,Z_back false false,Z_back,0,DGS,WestEuro,DGS
+dance,German,L_bnb,true,tip,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+day,German,E_bnb,false,tip,false,true,false,false,right,false,false,false,false,0,below_chin,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,DGS,WestEuro,DGS
+die,German,E,false,back_of_palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+dirty,German,A,false,back_of_fingers,true,false,false,false,right,false,false,false,false,0,nose,head,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+dog,German,E,true,back_of_fingers,true,true,false,false,right,false,false,false,false,1,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+dry,German,E_b,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,0,DGS,WestEuro,DGS
+dust,German,5_nb,true,tip,false,false,false,false,right,false,false,false,false,1,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+earth,German,5,true,radial_side,false,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false true,Z_front_Or,0,DGS,WestEuro,DGS
+egg,German,L_nb,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+father,German,V,false,back_of_fingers,false,false,true,false,right,false,false,false,false,0,chin,head,Y_up,Y_up,Y_up false true,Y_up_Or,0,DGS,WestEuro,DGS
+feather,German,L_b,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,DGS,WestEuro,DGS
+fire,German,5,true,palm,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_up,Y_up,Y_up false false,Y_up,0,DGS,WestEuro,DGS
+fish,German,E,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false true,X_left_Or,0,DGS,WestEuro,DGS
+flower,German,S,false,back_of_palm,false,true,false,false,right,false,false,false,false,0,palm,hand,Y_up,Y_up,Y_up true false,Y_up_Hs,0,DGS,WestEuro,DGS
+full,German,B,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_up,Y_up,Y_up false false,Y_up,0,DGS,WestEuro,DGS
+good,German,L_enb,true,tip,false,false,false,false,right,false,false,false,false,1,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+grass,German,1,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,DGS,WestEuro,DGS
+grease,German,5,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+green,German,I,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,DGS,WestEuro,DGS
+heavy,German,S,true,back_of_palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,DGS,WestEuro,DGS
+how,German,Y,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+husband,German,I,false,ulnar_side,false,false,false,false,right,false,false,true,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,1,DGS,WestEuro,DGS
+ice,German,S,false,radial_side,true,false,true,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false true,Y_down_Or,0,DGS,WestEuro,DGS
+if,German,1,false,tip,false,false,false,false,right,false,false,false,false,0,nose,head,Z_back,Z_back,Z_back false false,Z_back,0,DGS,WestEuro,DGS
+kill,German,1_nb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+laugh,German,L,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+leaf,German,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,Z_front,Z_front,Z_front true false,Z_front_Hs,0,DGS,WestEuro,DGS
+lie,German,1,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+live,German,A,true,heel,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+long,German,E,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+look_for,German,V_nb,false,tip,true,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,DGS,WestEuro,DGS
+man,German,E,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,top,head,X_right,X_right,X_right true false,X_right_Hs,0,DGS,WestEuro,DGS
+meat,German,E_nb,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+moon,German,L,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,DGS,WestEuro,DGS
+mother,German,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,cheek,head,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+mountain,German,5,false,palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right false true,X_right_Or,0,DGS,WestEuro,DGS
+name,German,1,false,tip,true,true,false,false,right,false,false,false,false,0,cheek,head,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+narrow,German,E,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+new,German,S,false,heel,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up true false,Y_up_Hs,0,DGS,WestEuro,DGS
+night,German,E,true,palm,false,true,false,false,right,false,false,false,false,1,Vertical,Vertical,X_left,X_left,X_left true false,X_left_Hs,0,DGS,WestEuro,DGS
+not,German,1,true,finger_fronts,false,false,false,false,right,false,false,false,false,1,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+old,German,L_bnb,false,radial_side,false,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+other,German,1,true,tip,false,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false true,Y_down_Or,0,DGS,WestEuro,DGS
+person,German,L_nb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+pig,German,5_nb,false,tip,false,false,false,false,right,false,false,false,false,0,nose,head,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+play,German,L_enb,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+rain,German,5,true,palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+red,German,1,false,tip,true,true,false,false,right,false,false,false,false,0,chin,head,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+river,German,E,true,palm,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+salt,German,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+sea,German,5,false,palm,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right true false,X_right_Hs,0,DGS,WestEuro,DGS
+sharp,German,E,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+short,German,E,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+singing,German,1,true,tip,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false true,Y_down_Or,0,DGS,WestEuro,DGS
+sister,German,1,true,radial_side,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+sit,German,V_nb,true,heel,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+smooth,German,E,false,palm,false,false,false,false,right,false,false,false,false,0,palm,hand,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+snake,German,E,false,tip,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false true,Z_front_Or,0,DGS,WestEuro,DGS
+snow,German,5_nb,true,tip,false,false,true,false,right,false,false,false,false,1,Lateral,Lateral,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+stand,German,V,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+star,German,1,true,tip,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+stone,German,E_nb,false,back_of_palm,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+string,German,L_nb,false,tip,false,false,true,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right false true,X_right_Or,0,DGS,WestEuro,DGS
+sun,German,E_bnb,false,heel,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left true false,X_left_Hs,0,DGS,WestEuro,DGS
+tail,German,E_nb,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,waist,torso,Y_up,Y_up,Y_up true false,Y_up_Hs,0,DGS,WestEuro,DGS
+thin,German,E,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+tree,German,5,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+vomit,German,5,false,palm,false,false,false,false,right,false,false,false,false,0,below_chin,head,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+warm,German,5,false,palm,false,true,false,false,right,false,false,false,false,0,mouth,head,Y_up,Y_up,Y_up true false,Y_up_Hs,0,DGS,WestEuro,DGS
+water,German,5,false,radial_side,true,false,false,false,right,false,false,false,false,0,neck,torso,Z_back,Z_back,Z_back false false,Z_back,0,DGS,WestEuro,DGS
+wet,German,E_b,true,finger_fronts,true,true,false,false,right,false,false,false,false,1,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,DGS,WestEuro,DGS
+what,German,E,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+when,German,E,false,palm,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+where,German,E,true,back_of_palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+white,German,1,false,radial_side,false,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+who,German,R,false,radial_side,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,DGS,WestEuro,DGS
+wide,German,1,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,DGS,WestEuro,DGS
+wife,German,I,false,tip,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,1,DGS,WestEuro,DGS
+wind,German,S,true,heel,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false true,X_left_Or,0,DGS,WestEuro,DGS
+with,German,E,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left true false,X_left_Hs,0,DGS,WestEuro,DGS
+woman,German,L_eb,false,tip,false,false,false,false,right,false,false,false,false,0,cheek,head,Z_back,Z_back,Z_back false false,Z_back,0,DGS,WestEuro,DGS
+wood,German,H,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+work,German,S,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,DGS,WestEuro,DGS
+worm,German,1,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,DGS,WestEuro,DGS
+year,German,Y,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,DGS,WestEuro,DGS
+yellow,German,Y,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,DGS,WestEuro,DGS
+all,German (Austria),B,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+animal,German (Austria),1,false,tip,false,false,true,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false true,Y_down_Or,0,LSF,WestEuro,OGS
+bad,German (Austria),5,false,palm,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,LSF,WestEuro,OGS
+because,German (Austria),1,false,tip,false,true,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,LSF,WestEuro,OGS
+bird,German (Austria),L,false,heel,false,true,false,false,right,false,false,false,false,0,chin,head,true false,Hs_Change,true false,Hs,0,LSF,WestEuro,OGS
+black,German (Austria),E,false,palm,false,false,false,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+blood,German (Austria),5,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,LSF,WestEuro,OGS
+boring,German (Austria),A,false,tip,true,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+brother,German (Austria),1,false,radial_side,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+bug,German (Austria),1,true,heel,true,false,false,false,right,false,false,true,false,1,forehead,head,Z_front,Z_front,Z_front false false,Z_front,1,LSF,WestEuro,OGS
+cat,German (Austria),L_eb,true,tip,true,false,false,false,right,false,false,false,false,1,mouth,head,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+child,German (Austria),E,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+correct,German (Austria),H,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,palm,hand,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+count,German (Austria),S_b,true,back_of_palm,false,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down true false,Y_down_Hs,0,LSF,WestEuro,OGS
+dance,German (Austria),L_eb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+day,German (Austria),L_enb,false,radial_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+die,German (Austria),B,false,heel,false,false,true,false,right,false,false,false,false,0,heel,NA,false true,Or_Change,false true,Or,0,LSF,WestEuro,OGS
+dirty,German (Austria),5,false,tip,true,false,false,false,right,false,false,false,false,0,palm,hand,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+dog,German (Austria),E_nb,false,back_of_fingers,true,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,LSF,WestEuro,OGS
+dry,German (Austria),E_b,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,0,LSF,WestEuro,OGS
+dust,German (Austria),E,false,palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right false true,X_right_Or,0,LSF,WestEuro,OGS
+earth,German (Austria),E,true,radial_side,false,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false true,Y_down_Or,0,LSF,WestEuro,OGS
+egg,German (Austria),L_eb,false,tip,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,LSF,WestEuro,OGS
+father,German (Austria),1,false,radial_side,false,false,false,false,right,false,false,false,false,0,chin,head,Y_up,Y_up,Y_up false false,Y_up,0,LSF,WestEuro,OGS
+feather,German (Austria),L_b,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,LSF,WestEuro,OGS
+fire,German (Austria),5,true,palm,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,Y_up,Y_up,Y_up false true,Y_up_Or,0,LSF,WestEuro,OGS
+fish,German (Austria),E,false,tip,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false true,Z_front_Or,0,LSF,WestEuro,OGS
+flower,German (Austria),E_bnb,false,tip,true,true,false,false,right,false,false,false,false,0,nose,head,true false,Hs_Change,true false,Hs,0,LSF,WestEuro,OGS
+full,German (Austria),V,true,radial_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+good,German (Austria),L_enb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+grass,German (Austria),4,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,LSF,WestEuro,OGS
+grease,German (Austria),E_b,true,tip,false,true,false,false,right,false,true,false,false,1,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,1,LSF,WestEuro,OGS
+green,German (Austria),A,false,radial_side,true,false,false,false,right,false,false,false,false,0,chin,head,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+heavy,German (Austria),S,true,back_of_palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,LSF,WestEuro,OGS
+how,German (Austria),Y,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+husband,German (Austria),E,true,palm,true,false,true,false,right,false,true,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false true,Y_down_Or,1,LSF,WestEuro,OGS
+ice,German (Austria),M_enb,false,tip,false,false,false,false,right,false,false,false,false,0,wrist_back,arm,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+if,German (Austria),V,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+kill,German (Austria),S,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+laugh,German (Austria),5_b,true,tip,true,false,false,false,right,false,false,false,false,1,Torso_bottom,torso,Z_back,Z_back,Z_back false false,Z_back,0,LSF,WestEuro,OGS
+leaf,German (Austria),1,true,tip,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+lie,German (Austria),1,false,radial_side,true,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+live,German (Austria),L,true,radial_side,false,false,false,false,right,false,false,false,false,1,Torso_top,torso,Y_up,Y_up,Y_up false false,Y_up,0,LSF,WestEuro,OGS
+long,German (Austria),E,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+look_for,German (Austria),V_nb,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+man,German (Austria),B_nb,false,back_of_palm,true,false,false,false,right,false,false,false,false,0,cheek,head,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+meat,German (Austria),E_bnb,false,tip,false,true,false,false,right,false,false,false,false,0,back_of_palm,hand,Y_up,Y_up,Y_up true false,Y_up_Hs,1,LSF,WestEuro,OGS
+moon,German (Austria),L_b,false,tip,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,Y_down,Y_down,Y_down true false,Y_down_Hs,0,LSF,WestEuro,OGS
+mother,German (Austria),H,false,radial_side,false,false,false,false,right,false,false,false,false,0,mouth,head,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+mountain,German (Austria),E_bnb,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,LSF,WestEuro,OGS
+name,German (Austria),H,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,palm,hand,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+narrow,German (Austria),S_b,true,heel,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+new,German (Austria),B,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,palm,hand,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+night,German (Austria),H,false,radial_side,false,false,false,false,right,false,false,false,false,0,forehead,head,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+not,German (Austria),1,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,LSF,WestEuro,OGS
+old,German (Austria),L_nb,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,LSF,WestEuro,OGS
+other,German (Austria),1,true,tip,true,false,true,false,right,false,false,false,false,1,tip,hand,Z_front,Z_front,Z_front false true,Z_front_Or,0,LSF,WestEuro,OGS
+person,German (Austria),L_nb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+pig,German (Austria),1,false,tip,false,false,true,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false true,Y_down_Or,0,LSF,WestEuro,OGS
+play,German (Austria),5_b,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,LSF,WestEuro,OGS
+rain,German (Austria),5_nb,true,tip,true,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,LSF,WestEuro,OGS
+red,German (Austria),1,false,radial_side,false,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+river,German (Austria),E,true,palm,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+salt,German (Austria),U_b,false,tip,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,LSF,WestEuro,OGS
+sea,German (Austria),5,false,radial_side,false,false,true,false,right,false,false,false,false,0,ulnar_side,hand,Z_front,Z_front,Z_front false true,Z_front_Or,0,LSF,WestEuro,OGS
+sharp,German (Austria),B_b,false,tip,false,false,false,false,right,false,false,false,false,0,cheek,head,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+short,German (Austria),H,true,finger_fronts,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+singing,German (Austria),1,true,tip,true,false,true,false,right,false,false,false,false,1,Vertical,Vertical,X_left,X_left,X_left false true,X_left_Or,0,LSF,WestEuro,OGS
+sister,German (Austria),1,false,radial_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+sit,German (Austria),V_nb,true,finger_fronts,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+smooth,German (Austria),M_enb,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,back_of_palm,hand,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+snake,German (Austria),1,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false true,X_left_Or,0,LSF,WestEuro,OGS
+snow,German (Austria),5,true,finger_fronts,false,true,false,false,right,false,false,false,false,1,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,LSF,WestEuro,OGS
+star,German (Austria),1,true,tip,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+stone,German (Austria),S,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+string,German (Austria),L_enb,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+sun,German (Austria),E_bnb,false,heel,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left true false,X_left_Hs,0,LSF,WestEuro,OGS
+tail,German (Austria),5_b,false,tip,false,true,false,false,right,false,false,false,false,0,hips,torso,Y_up,Y_up,Y_up true false,Y_up_Hs,0,LSF,WestEuro,OGS
+thin,German (Austria),I,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+tree,German (Austria),S,true,ulnar_side,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,LSF,WestEuro,OGS
+vomit,German (Austria),5,false,back_of_palm,false,false,true,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false true,Y_down_Or,0,LSF,WestEuro,OGS
+warm,German (Austria),E,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+water,German (Austria),Y,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,Z_back,Z_back,Z_back false false,Z_back,0,LSF,WestEuro,OGS
+wet,German (Austria),E,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,back_of_palm,hand,false true,Or_Change,false true,Or,0,LSF,WestEuro,OGS
+what,German (Austria),5,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+when,German (Austria),1,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,LSF,WestEuro,OGS
+where,German (Austria),E,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+white,German (Austria),A,false,tip,false,false,false,false,right,false,false,false,false,0,clavicle,torso,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+who,German (Austria),H,false,tip,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,LSF,WestEuro,OGS
+wide,German (Austria),5,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,LSF,WestEuro,OGS
+wife,German (Austria),5,true,palm,false,false,true,false,right,false,false,false,true,1,Lateral,Lateral,Y_down,Y_down,Y_down false true,Y_down_Or,1,LSF,WestEuro,OGS
+wind,German (Austria),H,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,LSF,WestEuro,OGS
+with,German (Austria),E,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left true false,X_left_Hs,0,LSF,WestEuro,OGS
+woman,German (Austria),L_eb,false,tip,false,false,true,false,right,false,false,false,false,0,lip,head,Z_back,Z_back,Z_back false true,Z_back_Or,0,LSF,WestEuro,OGS
+wood,German (Austria),E,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,tip,hand,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+work,German (Austria),S,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+worm,German (Austria),1,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left true false,X_left_Hs,0,LSF,WestEuro,OGS
+year,German (Austria),Y,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,LSF,WestEuro,OGS
+yellow,German (Austria),Y,false,ulnar_side,true,true,false,false,right,false,false,false,false,0,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,LSF,WestEuro,OGS
+all,Chinese,S,false,back_of_fingers,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,Y_up,Y_up,Y_up false true,Y_up_Or,1,CSL,Asia,CSL
+animal,Chinese,S,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,CSL
+bad,Chinese,I,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+because,Chinese,L_nb,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,1,CSL,Asia,CSL
+bird,Chinese,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,CSL,Asia,CSL
+black,Chinese,H,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,top,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+blood,Chinese,E,false,tip,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,CSL
+boring,Chinese,X,false,radial_side,false,true,false,false,right,false,false,false,false,0,chin,head,true false,Hs_Change,true false,Hs,1,CSL,Asia,CSL
+brother,Chinese,M,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,CSL
+bug,Chinese,E,false,palm,true,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,1,CSL,Asia,CSL
+cat,Chinese,L_eb,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+child,Chinese,E,false,palm,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+correct,Chinese,E,false,radial_side,true,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+count,Chinese,E_b,false,back_of_fingers,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+dance,Chinese,Y,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+day,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,back_of_palm,hand,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,CSL
+die,Chinese,Y,false,tip,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+dirty,Chinese,I,false,tip,true,false,false,false,right,false,false,false,false,0,back_of_palm,hand,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+dog,Chinese,5_nb,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+dry,Chinese,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+dust,Chinese,U,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,CSL
+earth,Chinese,1,false,tip,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,CSL
+egg,Chinese,3,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,1,CSL,Asia,CSL
+father,Chinese,A,false,radial_side,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+feather,Chinese,5,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,back_of_palm,hand,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,CSL
+fire,Chinese,5,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,CSL
+fish,Chinese,E,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+flower,Chinese,E_bnb,false,tip,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,CSL,Asia,CSL
+full,Chinese,E,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,below_chin,head,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,CSL
+good,Chinese,A,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+grass,Chinese,E,false,palm,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,CSL
+grease,Chinese,1_b,false,tip,false,false,false,false,right,false,false,false,false,0,nose,head,X_left,X_left,X_left false false,X_left,1,CSL,Asia,CSL
+green,Chinese,E_b,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_up,Y_up,Y_up true false,Y_up_Hs,1,CSL,Asia,CSL
+heavy,Chinese,E_b,false,back_of_palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+how,Chinese,5,false,back_of_palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+husband,Chinese,A,false,tip,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,true false,Hs_Change,true false,Hs,1,CSL,Asia,CSL
+ice,Chinese,E_b,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+if,Chinese,B_b,false,radial_side,true,false,false,false,right,false,false,false,false,0,forehead,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+kill,Chinese,E,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,radial_side,hand,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+laugh,Chinese,L_nb,false,tip,true,false,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+leaf,Chinese,E_b,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,back_of_fingers,hand,Y_up,Y_up,Y_up true false,Y_up_Hs,0,CSL,Asia,CSL
+lie,Chinese,E,false,radial_side,false,true,false,false,right,false,false,false,false,0,chin,head,true false,Hs_Change,true false,Hs,1,CSL,Asia,CSL
+live,Chinese,1,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,cheek,head,Y_up,Y_up,Y_up false true,Y_up_Or,0,CSL,Asia,CSL
+long,Chinese,L,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+look_for,Chinese,3_b,false,heel,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+man,Chinese,E,false,palm,true,false,false,false,right,false,false,false,false,0,top,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+meat,Chinese,A,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,ulnar_side,hand,true false,Hs_Change,true false,Hs,0,CSL,Asia,CSL
+moon,Chinese,L,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,CSL,Asia,CSL
+mother,Chinese,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+mountain,Chinese,J,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,CSL
+name,Chinese,1,false,tip,true,false,false,false,right,false,false,false,false,0,tip,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+narrow,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+new,Chinese,A,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,back_of_palm,hand,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+night,Chinese,E,false,radial_side,false,true,false,false,right,false,false,false,false,0,forehead,head,X_right,X_right,X_right true false,X_right_Hs,0,CSL,Asia,CSL
+not,Chinese,B,false,palm,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+old,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,CSL
+other,Chinese,1,false,tip,false,false,true,false,right,false,false,false,false,0,Vertical,Vertical,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+person,Chinese,1,false,tip,false,false,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+pig,Chinese,E,false,radial_side,false,true,false,false,right,false,false,false,false,0,forehead,head,true false,Hs_Change,true false,Hs,0,CSL,Asia,CSL
+play,Chinese,B,false,palm,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+rain,Chinese,5_b,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+red,Chinese,H,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+river,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+salt,Chinese,L_b,false,tip,true,false,false,false,right,false,false,false,false,0,neck,torso,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+sea,Chinese,5,false,palm,true,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+sharp,Chinese,L_b,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,tip,hand,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,CSL
+short,Chinese,B,false,palm,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+singing,Chinese,1_b,false,radial_side,true,true,false,false,right,false,false,false,false,0,neck,torso,Z_front,Z_front,Z_front true false,Z_front_Hs,0,CSL,Asia,CSL
+sister,Chinese,M,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,CSL
+sit,Chinese,Y,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+smooth,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,palm,hand,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+snake,Chinese,H,false,heel,false,false,true,false,right,false,false,false,false,0,chin,head,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+snow,Chinese,5,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down true false,Y_down_Hs,0,CSL,Asia,CSL
+stand,Chinese,H,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+star,Chinese,L_enb,false,radial_side,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+stone,Chinese,H_nb,false,ulnar_side,true,false,true,false,right,false,false,false,false,0,wrist_front,arm,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+string,Chinese,1_b,false,tip,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,1,CSL,Asia,CSL
+sun,Chinese,L,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+tail,Chinese,1,false,heel,true,true,false,false,right,false,false,false,false,0,ulnar_side,hand,true false,Hs_Change,true false,Hs,0,CSL,Asia,CSL
+thin,Chinese,5,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,CSL,Asia,CSL
+tree,Chinese,L,false,ulnar_side,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up false true,Y_up_Or,0,CSL,Asia,CSL
+vomit,Chinese,B_nb,false,palm,true,false,false,false,right,false,false,false,false,0,mouth,head,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,CSL
+warm,Chinese,5_nb,false,palm,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,CSL
+water,Chinese,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,CSL
+wet,Chinese,V,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,1,CSL,Asia,CSL
+what,Chinese,1,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+when,Chinese,L,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,1,CSL,Asia,CSL
+where,Chinese,1_nb,false,tip,true,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,CSL
+white,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,1,CSL,Asia,CSL
+who,Chinese,1,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,1,CSL,Asia,CSL
+wide,Chinese,E,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,CSL,Asia,CSL
+wife,Chinese,A,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Lateral,Lateral,true false,Hs_Change,true false,Hs,1,CSL,Asia,CSL
+wind,Chinese,5,false,palm,true,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+with,Chinese,E_b,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+woman,Chinese,L_b,false,tip,true,false,false,false,right,false,false,false,false,0,cheek,head,X_right,X_right,X_right false false,X_right,0,CSL,Asia,CSL
+wood,Chinese,L,false,tip,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,CSL,Asia,CSL
+work,Chinese,S,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+worm,Chinese,1,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right true false,X_right_Hs,0,CSL,Asia,CSL
+year,Chinese,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,CSL
+yellow,Chinese,H,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,CSL
+all,Hongkong,E,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+animal,Hongkong,5_nb,true,back_of_fingers,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+bad,Hongkong,I,false,back_of_palm,true,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+because,Hongkong,E,false,radial_side,false,false,true,false,right,false,false,false,false,0,palm,hand,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+bird,Hongkong,L,false,back_of_palm,true,true,false,false,right,true,true,false,true,0,mouth,head,true false,Hs_Change,true false,Hs,1,CSL,Asia,HKSL
+black,Hongkong,1,false,radial_side,false,false,false,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+blood,Hongkong,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+boring,Hongkong,L,false,palm,false,false,false,false,right,false,false,false,false,0,Torso_mid,torso,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+brother,Hongkong,M,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+bug,Hongkong,1,false,tip,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,CSL,Asia,HKSL
+cat,Hongkong,5,true,tip,true,true,false,false,right,false,false,false,false,1,chin,head,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,HKSL
+child,Hongkong,B,false,palm,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+correct,Hongkong,A,false,palm,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+count,Hongkong,4_nb,true,ulnar_side,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+dance,Hongkong,V,false,tip,true,false,true,false,right,false,false,false,false,0,palm,hand,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+day,Hongkong,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,eye,head,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+die,Hongkong,Y,false,back_of_palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,CSL,Asia,HKSL
+dirty,Hongkong,L,false,tip,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+dog,Hongkong,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+dry,Hongkong,M_eb,false,tip,false,true,false,false,right,false,false,false,false,0,neck,torso,Z_front,Z_front,Z_front true false,Z_front_Hs,0,CSL,Asia,HKSL
+earth,Hongkong,5_nb,false,tip,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+egg,Hongkong,L_nb,true,tip,true,false,true,false,right,false,false,false,false,1,Lateral,Lateral,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+father,Hongkong,A,false,radial_side,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+feather,Hongkong,5,false,palm,false,true,false,false,right,false,false,false,false,0,back_of_palm,hand,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,HKSL
+fire,Hongkong,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,HKSL
+fish,Hongkong,E,false,radial_side,true,true,false,false,right,false,false,false,false,0,ulnar_side,hand,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+flower,Hongkong,E_bnb,false,palm,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up true false,Y_up_Hs,0,CSL,Asia,HKSL
+full,Hongkong,5,false,palm,true,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+good,Hongkong,A,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+grass,Hongkong,V,true,tip,true,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+grease,Hongkong,L_b,false,tip,true,false,false,false,right,false,false,false,false,0,nose,head,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+green,Hongkong,V,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,CSL,Asia,HKSL
+heavy,Hongkong,5,true,back_of_palm,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+how,Hongkong,5,true,back_of_palm,true,false,true,false,right,false,false,false,false,1,Vertical,Vertical,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+husband,Hongkong,A,true,finger_fronts,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,true false,Hs_Change,true false,Hs,1,CSL,Asia,HKSL
+ice,Hongkong,A,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,cheek,head,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+if,Hongkong,5_b,false,back_of_fingers,true,true,false,false,right,false,false,false,false,0,below_chin,head,true false,Hs_Change,true false,Hs,1,CSL,Asia,HKSL
+kill,Hongkong,B_b,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+laugh,Hongkong,1_b,false,tip,false,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+leaf,Hongkong,E_b,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,back_of_fingers,hand,Y_up,Y_up,Y_up true false,Y_up_Hs,0,CSL,Asia,HKSL
+lie,Hongkong,E,false,back_of_fingers,true,false,true,false,right,false,false,false,false,0,chin,head,Y_up,Y_up,Y_up false true,Y_up_Or,0,CSL,Asia,HKSL
+live,Hongkong,B,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+long,Hongkong,1,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+look_for,Hongkong,V,false,heel,true,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,HKSL
+man,Hongkong,5,false,palm,true,false,false,false,right,false,false,false,false,0,forehead,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+meat,Hongkong,L_b,false,tip,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+moon,Hongkong,L,false,tip,false,false,false,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+mother,Hongkong,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+mountain,Hongkong,B,false,palm,false,false,false,false,right,false,false,false,false,0,forehead,head,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+name,Hongkong,1,false,tip,true,false,false,false,right,false,false,false,false,0,finger_fronts,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+narrow,Hongkong,B,true,palm,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+new,Hongkong,L,false,tip,false,false,true,false,right,false,false,false,false,0,nose,head,Z_front,Z_front,Z_front false true,Z_front_Or,0,CSL,Asia,HKSL
+night,Hongkong,E,false,radial_side,false,true,false,false,right,false,false,false,false,0,forehead,head,X_right,X_right,X_right true false,X_right_Hs,0,CSL,Asia,HKSL
+not,Hongkong,E,false,palm,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+old,Hongkong,S,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+other,Hongkong,1,false,radial_side,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false true,X_left_Or,0,CSL,Asia,HKSL
+person,Hongkong,1,false,tip,false,false,false,false,right,false,false,false,false,0,finger_fronts,hand,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+pig,Hongkong,5_nb,false,tip,false,false,false,false,right,false,false,false,false,0,nose,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+play,Hongkong,B_b,true,palm,true,false,true,false,right,false,false,false,false,1,shoulder,torso,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+rain,Hongkong,4_nb,true,palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+red,Hongkong,1,false,tip,true,false,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+river,Hongkong,6,false,heel,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,1,CSL,Asia,HKSL
+salt,Hongkong,5,false,tip,true,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+sea,Hongkong,5,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+sharp,Hongkong,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,HKSL
+short,Hongkong,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+singing,Hongkong,S,false,radial_side,true,false,false,false,right,false,false,false,false,0,mouth,head,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+sister,Hongkong,M,false,tip,false,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,1,CSL,Asia,HKSL
+sit,Hongkong,Y,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+smooth,Hongkong,E,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,elbow_front,arm,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+snake,Hongkong,V,false,heel,false,false,true,false,right,false,false,false,false,0,mouth,head,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+snow,Hongkong,A,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,cheek,head,X_right,X_right,X_right false false,X_right,1,CSL,Asia,HKSL
+stand,Hongkong,Y,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+star,Hongkong,L_enb,true,ulnar_side,true,false,false,false,right,false,false,false,false,1,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+stone,Hongkong,V,false,radial_side,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+string,Hongkong,6,false,tip,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+sun,Hongkong,E_bnb,false,tip,true,true,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,0,CSL,Asia,HKSL
+tail,Hongkong,I,false,heel,true,true,false,false,right,false,false,false,false,0,palm,hand,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+thin,Hongkong,E,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,chin,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,CSL,Asia,HKSL
+tree,Hongkong,L,true,ulnar_side,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,CSL,Asia,HKSL
+vomit,Hongkong,E,false,palm,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_front,Z_front,Z_front false false,Z_front,0,CSL,Asia,HKSL
+warm,Hongkong,E,true,finger_fronts,true,false,true,false,right,false,false,false,false,1,shoulder,torso,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+water,Hongkong,6,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false true,Y_down_Or,0,CSL,Asia,HKSL
+wet,Hongkong,E,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left true false,X_left_Hs,0,CSL,Asia,HKSL
+what,Hongkong,1,false,finger_fronts,true,false,true,false,right,false,false,false,false,0,Vertical,Vertical,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+when,Hongkong,5,false,heel,true,true,false,false,right,false,false,false,false,0,wrist_back,arm,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+where,Hongkong,L_eb,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,1,CSL,Asia,HKSL
+white,Hongkong,E_bnb,false,tip,true,true,false,false,right,false,false,false,false,0,Vertical,Vertical,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+who,Hongkong,1,false,tip,false,false,false,false,right,false,false,false,false,0,forehead,head,X_right,X_right,X_right false false,X_right,1,CSL,Asia,HKSL
+wide,Hongkong,S,true,radial_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+wife,Hongkong,A,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,true false,Hs_Change,true false,Hs,1,CSL,Asia,HKSL
+wind,Hongkong,5,false,palm,true,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+with,Hongkong,U_b,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,back_of_fingers,hand,true false,Hs_Change,true false,Hs,0,CSL,Asia,HKSL
+woman,Hongkong,A,false,radial_side,false,false,false,false,right,false,false,false,false,0,cheek,head,Z_back,Z_back,Z_back false false,Z_back,0,CSL,Asia,HKSL
+wood,Hongkong,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,radial_side,hand,X_left,X_left,X_left false false,X_left,0,CSL,Asia,HKSL
+work,Hongkong,S,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,CSL,Asia,HKSL
+worm,Hongkong,1,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front true false,Z_front_Hs,0,CSL,Asia,HKSL
+year,Hongkong,5,false,palm,false,false,false,false,right,false,false,false,false,0,palm,hand,X_right,X_right,X_right false false,X_right,0,CSL,Asia,HKSL
+yellow,Hongkong,5_nb,false,tip,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,CSL,Asia,HKSL
+all,NewZealand,E,false,palm,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+animal,NewZealand,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+bad,NewZealand,I,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+because,NewZealand,L,false,radial_side,false,false,false,false,right,false,false,false,false,0,Torso_top,torso,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+bird,NewZealand,L,false,back_of_palm,true,true,false,false,right,false,false,false,false,0,mouth,head,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+black,NewZealand,A,false,heel,false,false,false,false,right,false,false,false,false,0,cheek,head,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+blood,NewZealand,E_bnb,false,tip,true,true,false,false,right,false,false,false,false,0,forearm_front,arm,Z_front,Z_front,Z_front true false,Z_front_Hs,0,NA,NA,NZSL
+boring,NewZealand,E,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+brother,NewZealand,S_b,true,heel,true,false,false,false,right,false,false,false,false,1,Lateral,Lateral,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+bug,NewZealand,5_nb,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left true false,X_left_Hs,0,NA,NA,NZSL
+cat,NewZealand,L,true,tip,true,true,false,false,right,false,false,false,false,1,cheek,head,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+child,NewZealand,B,false,palm,false,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+correct,NewZealand,A,false,heel,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+count,NewZealand,5,true,back_of_fingers,false,false,false,false,right,false,false,false,false,1,Vertical,Vertical,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+dance,NewZealand,V,true,tip,true,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+day,NewZealand,S_b,false,heel,false,false,false,false,right,false,false,false,false,0,cheek,head,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+die,NewZealand,E,true,palm,false,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+dirty,NewZealand,E,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,finger_fronts,hand,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+dog,NewZealand,E,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+dry,NewZealand,5_b,true,back_of_palm,false,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down true false,Y_down_Hs,0,NA,NA,NZSL
+dust,NewZealand,5_b,true,tip,false,true,false,false,right,false,false,false,false,1,Vertical,Vertical,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+earth,NewZealand,5_b,true,radial_side,false,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,NA,NA,NZSL
+egg,NewZealand,1,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,radial_side,hand,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+father,NewZealand,L_nb,false,radial_side,true,false,false,false,right,false,false,false,false,0,chin,head,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+feather,NewZealand,L_eb,false,ulnar_side,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,NA,NA,NZSL
+fire,NewZealand,5_b,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up true false,Y_up_Hs,0,NA,NA,NZSL
+fish,NewZealand,B,false,tip,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false true,X_left_Or,0,NA,NA,NZSL
+flower,NewZealand,S,false,radial_side,false,false,false,false,right,false,false,false,false,0,mouth,head,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+full,NewZealand,B,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,below_chin,head,Y_up,Y_up,Y_up false false,Y_up,0,NA,NA,NZSL
+good,NewZealand,A,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+grass,NewZealand,5,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+grease,NewZealand,5_b,false,tip,true,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+green,NewZealand,E,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,forearm_back,arm,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+heavy,NewZealand,5,true,back_of_palm,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+how,NewZealand,E,false,palm,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+husband,NewZealand,L_eb,false,tip,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+ice,NewZealand,5_nb,true,tip,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+if,NewZealand,A,false,tip,false,false,true,false,right,false,false,false,false,0,below_chin,head,Z_front,Z_front,Z_front false true,Z_front_Or,0,NA,NA,NZSL
+kill,NewZealand,A,false,tip,false,false,false,false,right,false,false,false,false,0,neck,torso,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+laugh,NewZealand,L_nb,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,mouth,head,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+leaf,NewZealand,L,true,tip,false,true,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+lie,NewZealand,1,false,radial_side,false,false,false,false,right,false,false,false,false,0,chin,head,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+live,NewZealand,E,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+long,NewZealand,B,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+look_for,NewZealand,1,false,radial_side,true,false,false,false,right,false,false,false,false,0,cheek,head,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+man,NewZealand,S,false,radial_side,false,false,false,false,right,false,false,false,false,0,below_chin,head,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+meat,NewZealand,A,false,tip,true,false,false,false,right,false,false,false,false,0,neck,torso,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+moon,NewZealand,L_b,false,tip,false,true,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down true false,Y_down_Hs,0,NA,NA,NZSL
+mother,NewZealand,W,false,finger_fronts,true,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+mountain,NewZealand,B,false,radial_side,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up false true,Y_up_Or,0,NA,NA,NZSL
+name,NewZealand,H,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,forehead,head,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+narrow,NewZealand,B,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+new,NewZealand,B,false,back_of_fingers,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_up,Y_up,Y_up false false,Y_up,0,NA,NA,NZSL
+night,NewZealand,E,false,palm,false,false,false,false,right,false,false,false,false,0,forehead,head,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+not,NewZealand,L_enb,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+old,NewZealand,L_nb,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,nose,head,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+other,NewZealand,1,false,finger_fronts,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_up,Y_up,Y_up false true,Y_up_Or,0,NA,NA,NZSL
+person,NewZealand,L_nb,false,tip,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+pig,NewZealand,S,false,radial_side,false,false,false,false,right,false,false,false,false,0,nose,head,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+play,NewZealand,5_nb,true,tip,true,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_up,Y_up,Y_up false false,Y_up,0,NA,NA,NZSL
+rain,NewZealand,5_b,true,tip,true,false,true,false,right,false,false,false,false,1,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+red,NewZealand,1,false,tip,true,true,false,false,right,false,false,false,false,0,lip,head,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+river,NewZealand,L_nb,false,tip,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+salt,NewZealand,E_bnb,false,radial_side,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+sea,NewZealand,5,false,palm,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+sharp,NewZealand,1,false,tip,false,true,false,false,right,false,false,false,false,0,tip,hand,X_right,X_right,X_right true false,X_right_Hs,0,NA,NA,NZSL
+short,NewZealand,E,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+singing,NewZealand,H,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,lip,head,Z_front,Z_front,Z_front true false,Z_front_Hs,0,NA,NA,NZSL
+sister,NewZealand,1_nb,false,radial_side,true,false,false,false,right,false,false,false,false,0,nose,head,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+sit,NewZealand,S,true,radial_side,false,false,false,false,right,false,false,false,false,1,Horizontal,Horizontal,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+smooth,NewZealand,E,false,palm,false,false,false,false,right,false,false,false,false,0,palm,hand,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+snake,NewZealand,3_b,false,back_of_palm,true,true,true,false,right,false,false,false,false,0,mouth,head,true true,Or_HS_Change,true true,Hs_Or,0,NA,NA,NZSL
+snow,NewZealand,L_enb,false,ulnar_side,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,Y_down,Y_down,Y_down false true,Y_down_Or,0,NA,NA,NZSL
+stand,NewZealand,V,false,tip,false,false,false,false,right,false,false,false,false,0,palm,hand,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+star,NewZealand,L_enb,false,tip,false,true,false,false,right,false,false,false,false,0,forehead,head,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+stone,NewZealand,L_enb,false,ulnar_side,false,false,false,false,right,false,false,false,false,0,Vertical,Vertical,Z_front,Z_front,Z_front false false,Z_front,0,NA,NA,NZSL
+string,NewZealand,L_eb,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+sun,NewZealand,E_bnb,false,tip,false,true,false,false,right,false,false,false,false,0,forehead,head,Z_back,Z_back,Z_back true false,Z_back_Hs,0,NA,NA,NZSL
+tail,NewZealand,L_enb,false,radial_side,true,false,false,false,right,false,false,false,false,0,hips,torso,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+thin,NewZealand,L_eb,true,tip,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+tree,NewZealand,5,false,palm,false,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+vomit,NewZealand,E_bnb,false,back_of_palm,false,true,false,false,right,false,false,false,false,0,mouth,head,Y_down,Y_down,Y_down true false,Y_down_Hs,0,NA,NA,NZSL
+warm,NewZealand,S_b,false,heel,true,false,true,false,right,false,false,false,false,0,chin,head,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+water,NewZealand,1_nb,false,radial_side,true,false,false,false,right,false,false,false,false,0,cheek,head,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+wet,NewZealand,5_b,true,tip,true,true,false,false,right,false,false,false,false,1,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+what,NewZealand,1,false,radial_side,true,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+when,NewZealand,5,false,finger_fronts,true,true,false,false,right,false,false,false,false,0,cheek,head,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+where,NewZealand,5,false,back_of_palm,true,false,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+white,NewZealand,L_enb,false,tip,false,false,false,false,right,false,false,false,false,0,neck,torso,Z_back,Z_back,Z_back false false,Z_back,0,NA,NA,NZSL
+who,NewZealand,1,false,tip,false,false,true,false,right,false,false,false,false,0,Horizontal,Horizontal,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+wide,NewZealand,E,false,palm,false,false,false,false,right,false,false,false,false,0,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+wife,NewZealand,L_eb,false,tip,false,false,false,false,right,false,false,false,false,0,back_of_fingers,hand,X_left,X_left,X_left false false,X_left,0,NA,NA,NZSL
+wind,NewZealand,5,false,palm,true,false,true,false,right,false,false,false,false,0,Lateral,Lateral,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+with,NewZealand,5_b,false,tip,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,true false,Hs_Change,true false,Hs,0,NA,NA,NZSL
+woman,NewZealand,5,false,radial_side,false,false,true,false,right,false,false,false,false,0,Torso_top,torso,false true,Or_Change,false true,Or,0,NA,NA,NZSL
+wood,NewZealand,E_nb,true,radial_side,false,false,false,false,right,false,false,false,false,1,Lateral,Lateral,X_right,X_right,X_right false false,X_right,0,NA,NA,NZSL
+work,NewZealand,B,false,ulnar_side,true,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+worm,NewZealand,1,false,finger_fronts,false,true,false,false,right,false,false,false,false,0,Horizontal,Horizontal,X_left,X_left,X_left true false,X_left_Hs,0,NA,NA,NZSL
+year,NewZealand,1,false,finger_fronts,false,false,false,false,right,false,false,false,false,0,radial_side,hand,Y_down,Y_down,Y_down false false,Y_down,0,NA,NA,NZSL
+yellow,NewZealand,L_eb,false,tip,true,false,true,false,right,false,false,false,false,0,forehead,head,false true,Or_Change,false true,Or,0,NA,NA,NZSL
