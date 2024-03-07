@@ -212,9 +212,9 @@ Param=list(Trpossliste=passages,
            tiplabel=tr$tip.label,
            batches=c(lapply(1:(ncol(Dat[[1]])),function(x){nrow(Dat[[1]])})),
            ReconstructClade=list(c(10,9),c(6,2)),
-           Cladeage=list(list( c(10,9),c(10,200)),list( c(8,150),c(20,300)))
+           Cladeage=list(list( c(10,9),c(10,200)),list( c(8,15),c(20,300)))
 )
 
-VV2=SMCbruit(Dat,Param,Prior,30)
+VV2=SMCbruit(Dat,Param,Prior,1,T)
 
 save.image(paste("SMCforetsimu3", date(), ".RData"), version = 2)
