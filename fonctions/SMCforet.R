@@ -1,11 +1,14 @@
 
-SMCbruit <- function(Dat, Param, Prior, ncores) {
+SMCbruit <- function(Dat, Param, Prior, ncores,evolhist=F) {
   #avec le bruit qui diminue
   npart=Param$npart
   npas=Param$npas
   npasfin=Param$npasfin
   Nmin=Param$Nmin
   batches = Param$batches
+  if (evolhist){
+    paramhist=list()
+  }
   nfeuilles = ncol(Dat[[1]])
   state = inipopbruit(npart, Dat, Param, Prior,ncores)
   #for (i in 2:(nfeuilles - 1)) {
@@ -37,6 +40,9 @@ SMCbruit <- function(Dat, Param, Prior, ncores) {
   if (!(all(sapply(state,length)==length(state[[1]])))){
     return(state)
   }
+  if (evolhist){
+    paramhist[[1]]=lapply(state,function(x){c(x$La,x$Rho,x$bruit)})
+  }
   for (i in 2:length(Prior$bruit)) {
     state = lapply(state, function(x) {
       forward.bruit(x, Dat, Prior, Param,i)
@@ -64,10 +70,16 @@ SMCbruit <- function(Dat, Param, Prior, ncores) {
     if (!(all(sapply(state,length)==length(state[[1]])))){
       return(state)
     }
+    if (evolhist){
+      paramhist[[i]]=lapply(state,function(x){c(x$La,x$Rho,x$bruit)})
+    }
   }
   state = pasparalbruit(state, npasfin, Dat, Prior, Param, ncores, nrow(Dat[[1]]),T)
   if (!(all(sapply(state,length)==length(state[[1]])))){
     return(state)
+  }
+  if (evolhist){
+    paramhist[[length(Prior$bruit)+1]]=lapply(state,function(x){c(x$La,x$Rho,x$bruit)})
   }
   #state=lapply(state,function(x){y=x;y$Tr$root=x$Tr$root[[2]];return(y)})
   statefinresamp = state
@@ -78,5 +90,9 @@ SMCbruit <- function(Dat, Param, Prior, ncores) {
          OtherReconstruct=lapply(Z,function(zz){lapply(1:nch,function(z){x$Lin[[z]][[zz]]})}))
   })
   renvoi=lapply(renvoi,function(x){y=x;y$Tr$root=y$Tr$root[[2]];return(y)})
-  return(list(renvoi, pdshist, histgeneal))
+  if (evolhist){
+    return(list(renvoi, pdshist, histgeneal,paramhist))
+  } else {
+    return(list(renvoi, pdshist, histgeneal))
+  }
 }
