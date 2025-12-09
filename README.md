@@ -6,10 +6,6 @@ This is the implementation of the numerical methods described in my PhD to sampl
 
 This folder contains all the functions needed to run the analysis. The code might be difficult to read.
 
-# "datasets"
-
-Contains the datasets used for the experiments presented in the papers.
-
 # Reproducing the results of the papers
 
 The R files at the root corresponds to the different experiments carried in the papers:
