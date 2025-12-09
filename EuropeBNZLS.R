@@ -1,5 +1,5 @@
 #JJ=read.csv("datasets/fulldataavecasie.csv",header=T)
-J=read.csv("datasets/datafin.csv",header=T,stringsAsFactors =T)
+J=read.csv("datafin.csv",header=T,stringsAsFactors =T)
 
 source("fonctions/fctauxini.R")
 source("fonctions/gibbsparam.R")
