@@ -23,6 +23,10 @@ The R files at the root corresponds to the different experiments carried in the 
 - The other files corresponds to other subparts of the dataset, most of which were not presented
 - NJ.R computes raw representations of the initial dataset
 
+On the Je languages:
+- GenericTemplate_Je.R runs the simulations. The output of the study is stored in the AnalysisJeLanguages nexus files.
+- The dataset is stored in je_languages_modified.csv
+
 # Using the code
 
 Everything is described in the GiveATry.R file, we did not include the data importation part, as this can be quite dependent on the datasets.
