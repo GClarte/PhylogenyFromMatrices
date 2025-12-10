@@ -24,6 +24,10 @@ On the Je languages:
 - GenericTemplate_Je.R runs the simulations. The output of the study is stored in the AnalysisJeLanguages nexus files.
 - The dataset is stored in je_languages_modified.csv
 
+#Results
+
+the nexus files of the results are stored in the Result folder.
+
 # Using the code
 
 Everything is described in the GenericTemplate.R file, we did not include the data importation part, as this can be quite dependent on the datasets.
